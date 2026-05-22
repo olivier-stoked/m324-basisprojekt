@@ -1,1 +1,1 @@
-Front Verzeichnis
+Frontend Verzeichnis
