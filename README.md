@@ -29,3 +29,7 @@ Um zu gewährleisten, dass die Pipeline performant und fehlerfrei läuft, habe i
 
 - _Einsatz von Caching:_
   _Begründung:_ Sowohl für Maven (`cache: maven`) als auch für npm (`cache: npm`) habe ich das Caching aktiviert. Dies verhindert, dass meine Pipeline bei jedem Run hunderte Megabytes an Dependencies neu herunterladen muss, was meine Build-Dauer drastisch verkürzt.
+
+## 06A
+
+GitHub flow branching Strategie implementiert
