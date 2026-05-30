@@ -33,3 +33,7 @@ Um zu gewährleisten, dass die Pipeline performant und fehlerfrei läuft, habe i
 ## 06A
 
 GitHub flow branching Strategie implementiert
+
+## 06B
+
+Pull Request Test erfolgreich
