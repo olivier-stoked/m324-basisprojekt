@@ -8,6 +8,7 @@ import java.util.List;
 
 @SpringBootApplication
 @RestController
+@RequestMapping("/api/v1")
 @CrossOrigin
 public class DemoApplication {
 
